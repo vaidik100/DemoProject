@@ -40,4 +40,4 @@ jobs:
       with:
         context: .  # Path to your Docker context (current repository)
         push: true  # Push the built image to Docker Hub
-        tags: your-dockerhub-username/DemoProject:latest  # Replace with your Docker Hub username and repo
+        tags: your-dockerhub-username/demoproject:latest  # Replace with your Docker Hub username and repo
